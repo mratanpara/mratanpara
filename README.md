@@ -1,7 +1,6 @@
-# Hi There, I'm Mohit Ratanpara. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">
+# Hey!, I'm Mohit Ratanpara. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mratanpara&label=Profile%20views&color=0e75b6&style=flat" alt="mratanpara" /> </p>
-
 
 ## I am a diligent, and Honors student from RK University with programming and designing skills.
 
