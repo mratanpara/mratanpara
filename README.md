@@ -51,13 +51,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code>
-
-
-
-<br/>
-<br/>
-<br/>
-
+<br>
 <p align="top"><img src="https://github-readme-stats.vercel.app/api?username=mratanpara&&show_icons=true&title_color=ffffff&icon_color=03A9F4&text_color=daf7dc&bg_color=151515"/>&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mratanpara&layout=compact&theme=tokyonight"/></p>
 
 <!-- <p  align="center"><img src="https://github.com/mratanpara/mratanpara/blob/main/code.gif" width="100%"></p> -->
