@@ -35,7 +35,7 @@
   </a>
 </p>
 
-### Languages and Tools:
+### ⚙ Languages and Tools
 
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />
 <img align="left" alt="Android" width="26px" src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" />
@@ -67,3 +67,4 @@
 
 <!-- [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mratanpara&theme=dark)](https://github.com/mratanpara/github-readme-streak-stats) -->
   
+<!-- <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> -->
