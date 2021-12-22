@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mratanpara&label=Profile%20views&color=0e75b6&style=flat" alt="mratanpara" /> </p>
 
-## I am a diligent, and Honors student from RK University with programming and designing skills.
 
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/),Android.
 - ⚡ Fun fact - **i love** to drink **chai** anytime.
