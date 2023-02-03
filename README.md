@@ -1,4 +1,4 @@
-# Hey!, I'm Mohit Ratanpara. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
+<!-- # Hey!, I'm Mohit Ratanpara. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mratanpara&label=Profile%20views&color=0e75b6&style=flat" alt="mratanpara" /> </p>
 
@@ -64,4 +64,4 @@
 
 <!-- [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mratanpara&theme=dark)](https://github.com/mratanpara/github-readme-streak-stats) -->
   
-<!-- <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> -->
+<!-- <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> --> -->
