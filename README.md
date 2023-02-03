@@ -64,4 +64,4 @@
 
 <!-- [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mratanpara&theme=dark)](https://github.com/mratanpara/github-readme-streak-stats) -->
   
-<!-- <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> --> -->
+<!-- <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> -->
