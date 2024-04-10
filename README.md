@@ -1,4 +1,4 @@
-<!-- # Hey!, I'm Mohit Ratanpara. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
+# Hey!, I'm Mohit Ratanpara. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mratanpara&label=Profile%20views&color=0e75b6&style=flat" alt="mratanpara" /> </p>
 
@@ -55,13 +55,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mratanpara&layout=compact&theme=tokyonight"/>
 </p>
 
-<!-- <p  align="center"><img src="https://github.com/mratanpara/mratanpara/blob/main/code.gif" width="100%"></p> -->
+<p  align="center"><img src="https://github.com/mratanpara/mratanpara/blob/main/code.gif" width="100%"></p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
   <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
-</p><br> -->
+</p><br>
 
-<!-- [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mratanpara&theme=dark)](https://github.com/mratanpara/github-readme-streak-stats) -->
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mratanpara&theme=dark)](https://github.com/mratanpara/github-readme-streak-stats)
   
-<!-- <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> -->
+<img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
