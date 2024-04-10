@@ -58,7 +58,7 @@
 <!-- <p  align="center"><img src="https://github.com/mratanpara/mratanpara/blob/main/code.gif" width="100%"></p> -->
 
 <p align="center">
-  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
+  <img src="https://little.kylerconway.com/images/golang-what.gif" height="300">
 </p><br>
 
 <!-- [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mratanpara&theme=dark)](https://github.com/mratanpara/github-readme-streak-stats)
