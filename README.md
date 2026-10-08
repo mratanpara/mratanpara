@@ -57,10 +57,184 @@
 
 <!-- <p  align="center"><img src="https://github.com/mratanpara/mratanpara/blob/main/code.gif" width="100%"></p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://little.kylerconway.com/images/golang-what.gif" height="300">
-</p><br>
+</p><br> -->
 
 <!-- [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mratanpara&theme=dark)](https://github.com/mratanpara/github-readme-streak-stats)
   
 <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> -->
+
+
+
+# Hi, I'm Mohit Ratanpara 👋
+
+### Software Engineer | PHP & Laravel | Flutter | REST APIs
+
+I'm a Software Engineer with 4.7+ years of experience building production applications across backend and cross-platform development.
+
+My recent work has focused on **PHP/Laravel backend development**, REST APIs, authentication, role-based access control, database-driven applications, notifications and CI/CD. I also have strong experience building **Flutter applications for Android, iOS and desktop**.
+
+I enjoy working on real-world products, solving production issues, integrating third-party services, and turning business requirements into reliable software.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- PHP
+- Laravel
+- RESTful APIs
+- Eloquent ORM
+- MySQL
+- Redis
+- Queues & Jobs
+- Task Scheduling
+- Artisan
+
+### Laravel Ecosystem
+- Laravel Sanctum
+- Laravel Passport
+- Socialite
+- Filament
+- Livewire
+- Blade
+- Form Requests
+- API Resources
+- Policies & Middleware
+- Observers
+
+### Mobile & Desktop
+- Flutter
+- Dart
+- Kotlin
+- Provider
+- GetX
+- BLoC
+- Dio
+- Android
+- Flutter Desktop
+
+### Firebase & Notifications
+- Firebase Authentication
+- Firebase Cloud Messaging (FCM)
+- Web Push
+- Firebase Analytics
+- Firebase Crashlytics
+- Laravel Mail
+
+### DevOps & Tools
+- Docker
+- GitHub Actions
+- CI/CD
+- Linux
+- Git
+- Bitbucket
+- Swagger / OpenAPI
+- Postman
+
+### Testing
+- PHPUnit
+- Pest
+- API Testing
+
+---
+
+## 💼 What I Work On
+
+- Building RESTful APIs with Laravel
+- Authentication and authorization systems
+- Role-based access control (RBAC)
+- Multi-tenant and workspace-based applications
+- Database design and optimization
+- Third-party API and SDK integrations
+- Push notification systems
+- Recurring jobs and scheduled tasks
+- Flutter applications for Android, iOS and desktop
+- Production debugging and performance optimization
+- CI/CD pipelines and Linux deployments
+
+---
+
+## 🚀 Featured Work
+
+### Insyst — Team Reminders
+
+A multi-tenant team reminder platform built around recurring, time-zone-aware reminders.
+
+**Worked on:**
+- Laravel REST APIs
+- Workspace-scoped authentication
+- OTP email verification
+- Role-based access control
+- Redis queues and scheduled jobs
+- FCM and Web Push notifications
+- Swagger API documentation
+- GitHub Actions CI/CD
+- Flutter application
+
+---
+
+### SpotLink — URL Shortener
+
+A multi-domain URL shortener with password protection, QR codes, team collections and visitor analytics.
+
+**Worked on:**
+- Laravel REST APIs
+- Passport authentication
+- Google Sign-In with Socialite
+- Multi-domain routing
+- Unique URL aliases
+- Password-protected links
+- Collection-level permissions
+- Filament & Livewire dashboard
+- Flutter application
+
+---
+
+## 📱 Flutter Experience
+
+I've worked on Flutter applications across different types of products, including:
+
+- Mobile applications
+- Real-time camera and monitoring applications
+- Membership platforms
+- Task management applications
+- Sports and event platforms
+- Secure SMS synchronization
+- Desktop applications
+
+I have also worked with native **Kotlin** alongside Flutter where platform-specific functionality was required.
+
+---
+
+## 🔧 Engineering Focus
+
+I care about writing software that is:
+
+- Maintainable
+- Secure
+- Performant
+- Easy to extend
+- Reliable in production
+
+I'm particularly interested in backend architecture, API design, integrations, database performance, application security and improving existing systems.
+
+---
+
+## 📊 GitHub
+
+Most of my professional development work is maintained in private or organization repositories, so not all of my production work is publicly available here.
+
+This profile represents my technical interests, public work and development activity.
+
+---
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/mratanpara](https://www.linkedin.com/in/mratanpara)
+- **GitHub:** [github.com/mratanpara](https://github.com/mratanpara)
+
+---
+
+### Thanks for visiting my profile! 👋
